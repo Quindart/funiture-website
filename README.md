@@ -1,3 +1,5 @@
+<img width="1512" height="826" alt="Ảnh màn hình 2026-10-12 lúc 15 26 13" src="https://github.com/user-attachments/assets/feb9fd57-4e60-4c23-96b9-43ff800b60e1" />
+
 # Web Starter
 
 A reusable Next.js starter using the App Router, TypeScript, Zustand, React Hook Form, Tailwind CSS, and shadcn/ui.
